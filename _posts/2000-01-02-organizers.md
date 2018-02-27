@@ -3,10 +3,8 @@ title: "Organizers"
 bg: blue
 color: white
 style: center
-fa-icon: info
+fa-icon: users
 ---
-
-### Organizers 
 
 <div class="author">
     <a href="https://www.insight-centre.org/users/kevin-mcguinness" target="_blank">
