@@ -1,12 +1,12 @@
 ---
-title: "Tutorial"
+title: "Organizers"
 bg: blue
 color: white
 style: center
 fa-icon: info
 ---
 
-### Tutorial 
+### Organizers 
 
 <div class="author">
     <a href="https://www.insight-centre.org/users/kevin-mcguinness" target="_blank">
