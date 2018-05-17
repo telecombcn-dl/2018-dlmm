@@ -1,5 +1,5 @@
 ---
-title: "Organizers"
+title: "Instructors"
 bg: blue
 color: white
 style: center
